@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi 👋 欢迎光临，你也可以从以下地方找到我
+
+- [关于我](https://www.aigisss.com/)
+
+
+![Geekhyt github stats](https://github-readme-stats.vercel.app/api?username=Cenergy&show_icons=true)
