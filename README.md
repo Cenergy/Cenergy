@@ -20,7 +20,7 @@
 ### Other Languages I know
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
-🤝🏻  Connect with Me
+🤝🏻  联系我
 <p align="center">
 <a href="https://www.aigisss.com/"><img alt="Website" src="https://img.shields.io/badge/Website-https://www.aigisss.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="gonghaineng@genew.com"><img alt="Email" src="https://img.shields.io/badge/Email-gonghaineng@genew.com-blue?style=flat-square&logo=gmail"></a>
