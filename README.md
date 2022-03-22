@@ -23,7 +23,7 @@
 🤝🏻  联系我
 <p align="center">
 <a href="https://www.aigisss.com/"><img alt="Website" src="https://img.shields.io/badge/Website-https://www.aigisss.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="gonghaineng@genew.com"><img alt="Email" src="https://img.shields.io/badge/Email-gonghaineng@genew.com-blue?style=flat-square&logo=gmail"></a>
+<a href="673598118@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-673598118@qq-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <br/>
